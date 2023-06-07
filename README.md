@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Szafranerio
-- 🌱 I’m currently learning user experience design.
-- 💞️ I’m looking to collaborate on ux projects to extend portfolio.
+- 🌱 I’m currently learning data science.
 - 📫 How to reach me: bartekszafran@icloud.com
 
 <!---

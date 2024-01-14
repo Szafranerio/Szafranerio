@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Szafranerio
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning Python, VBA and SQL
 - 📫 How to reach me: bartekszafran@icloud.com
 
 <!---

@@ -4,9 +4,9 @@
 
 😎 I'm passionate about the transformative power of data analysis, believing it can revolutionize markets, propelling existing industries forward and creating new ones. Leveraging Python, particularly Jupyter and associated libraries, alongside Excel and VBA programming, I dissect data to uncover hidden patterns and derive actionable insights. I utilize Tableau for visualization and PostgreSQL for robust database management, ensuring precision, foresight, and ingenuity in navigating complex market dynamics.
 
-📚 Continuous improvement is key, and my focus for the next phase includes delving deeper into Machine Learning, Neural Networks, NonSQL databases, and further mastering Python
+📚 Continuous improvement is key, and my focus for the next phase includes delving deeper into Machine Learning, Neural Networks, NoSQL databases, and further mastering Python
 
-Do not hesitate to contact me, I am always willing to help or answers any questions.
+Do not hesitate to contact me, I am always willing to help or answer any questions.
 ✉️Mail: bartekszafran@icloud.com
 LinkedIn: https://www.linkedin.com/in/bartlomiejszafran/
 
